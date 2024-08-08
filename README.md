@@ -1,2 +1,2 @@
-# Proyecto_name
+# Informatica Cientifico
 Para guardar mis primeros proyectos de programacion
