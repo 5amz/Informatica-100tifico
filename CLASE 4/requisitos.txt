@@ -1,0 +1,4 @@
+# Nota: tkinter debe instalarse manualmente usando el gestor de paquetes del sistema
+# En Ubuntu: sudo apt-get install python3-tk
+
+# Ejecute Python3 Girasol.py
